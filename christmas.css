@@ -1,0 +1,23 @@
+body
+{
+    background-image: url('christmas\ bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; /*gashesheba*/
+    background-size: 100% 100%;
+}
+h1
+{
+    background-color: rgb(179, 88, 88);
+    text-align: center;
+    border: 5px solid brown;
+}
+img
+{
+    border: 5px solid brown;
+}
+pre
+{
+    background-color: rgb(179, 88, 88);
+    text-align: center;
+    border: 5px solid brown;
+}

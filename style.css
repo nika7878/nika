@@ -1,0 +1,25 @@
+a
+{
+    color: blue;
+    text-decoration: none; /*remove underline*/
+}
+a:hover
+{
+    color: green;
+    text-decoration: underline;
+}
+a:active
+{
+    color: yellow;
+}
+
+
+/*
+body
+{
+    background-image: url('-_-.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; gashesheba
+    background-size: 100% 100%;
+}
+*/

@@ -1,0 +1,23 @@
+a
+{
+    color:springgreen;
+    text-decoration: none;
+}
+a:hover
+{
+    color: rgb(98, 209, 98);
+    text-decoration: underline;
+}
+a:active
+{
+    color: green;
+}
+
+
+body
+{
+    background-color: rgb(172, 83, 83);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
